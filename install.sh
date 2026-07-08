@@ -1,10 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# ---------------------------------------------------------------------------
-# Example install script — served so it can be run with:
-#   curl -fsSL https://example.com/install.sh | bash
-# ---------------------------------------------------------------------------
 
 BLUE='\033[0;34m'
 GREEN='\033[0;32m'
